@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.109.54.181:9980/mithuntechnologies/repository/wallmart-release/</url>
+	      <name> union-bank-release </name>
+	      <url>http://15.206.168.192:8081/repository/union-bank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.109.54.181:9980/mithuntechnologies/repository/wallmart-snapshot/</url>
+	      <name> union-bank-snapshot </name>
+	      <url>http://15.206.168.192:8081/repository/union-bank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
