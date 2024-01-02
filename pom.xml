@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>union bank</name>
-	      <url>http://3.111.41.47:8081/repository/union-bank-snapshot/</url>
+	      <name>maven-web-app</name>
+	      <url>http://52.66.252.11:8081/repository/maven-web-app-snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
